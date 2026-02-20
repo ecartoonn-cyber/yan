@@ -35,9 +35,9 @@ class DocGenerator:
         # 生成文档内容
         content = f"""# 恐慌贪婪指数追踪器
 
-[![数据更新](https://img.shields.io/badge/数据更新-{stats.get("latest_date", "-")}-blue)]()
-[![记录数量](https://img.shields.io/badge/记录数量-{stats.get("total_records", 0)}-green)]()
-[![当前状态](https://img.shields.io/badge/当前状态-{level_cn}-{self._get_color(latest_value)})]()
+[![Last Update](https://img.shields.io/badge/Last_Update-{stats.get("latest_date", "-")}-blue)]()
+[![Records](https://img.shields.io/badge/Records-{stats.get("total_records", 0)}-green)]()
+[![Status](https://img.shields.io/badge/Status-{level_en}-{self._get_color(latest_value)})]()
 
 自动追踪CNN恐慌贪婪指数，支持定时更新、可视化和历史版本管理。
 

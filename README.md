@@ -2,9 +2,9 @@
 
 # 恐慌贪婪指数追踪器
 
-[![数据更新](https://img.shields.io/badge/数据更新-2026-02-20-blue)]()
-[![记录数量](https://img.shields.io/badge/记录数量-3818-green)]()
-[![当前状态](https://img.shields.io/badge/当前状态-恐惧-orange)]()
+[![Last Update](https://img.shields.io/badge/Last_Update-2026-02-20-blue)]()
+[![Records](https://img.shields.io/badge/Records-3818-green)]()
+[![Status](https://img.shields.io/badge/Status-Fear-orange)]()
 
 自动追踪CNN恐慌贪婪指数，支持定时更新、可视化和历史版本管理。
 
@@ -16,6 +16,8 @@
 - **本地数据缓存**：SQLite数据库存储，支持增量更新
 - **可视化图表**：自动生成趋势图和分布统计
 - **版本历史管理**：Git自动提交 + 时间戳备份
+
+## 数据统计
 
 ### 当前状态
 
@@ -136,7 +138,7 @@ Fear_and_Greed_Index/
 
 ## 更新记录
 
-- 最近更新: 2026-02-20 11:00:30
+- 最近更新: 2026-02-20 11:50:23
 - 数据范围: - 至 2026-02-20
 
 ## 许可证
