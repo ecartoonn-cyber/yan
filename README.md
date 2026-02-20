@@ -1,3 +1,5 @@
+源代码来自：https://github.com/gman4774/Fear_and_Greed_Index 我这边进行了迭代
+
 # 恐慌贪婪指数追踪器
 
 [![数据更新](https://img.shields.io/badge/数据更新-2026-02-20-blue)]()
