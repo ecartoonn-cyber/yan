@@ -14,6 +14,8 @@
 - **本地数据缓存**：SQLite数据库存储，支持增量更新
 - **可视化图表**：自动生成趋势图和分布统计
 - **版本历史管理**：Git自动提交 + 时间戳备份
+- CNN原始页面：https://edition.cnn.com/markets/fear-and-greed
+-本项目原始代码：https://github.com/gman4774/Fear_and_Greed_Index 我这边做了迭代
 
 ## 数据统计
 
