@@ -30,7 +30,7 @@ MAX_BACKUPS = 10
 # 可视化配置
 CHART_DPI = 150
 CHART_FIGSIZE = (12, 6)
-TREND_DAYS = 30  # 趋势图显示天数
+TREND_DAYS = 50  # 趋势图显示天数
 
 # 恐惧贪婪等级定义
 FNG_LEVELS = {

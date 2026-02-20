@@ -70,7 +70,7 @@ class DocGenerator:
 
 ## 趋势图表
 
-### 近30日趋势
+### 近50日趋势
 
 ![趋势图]({trend_rel})
 
