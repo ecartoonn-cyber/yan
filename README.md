@@ -1,10 +1,8 @@
-源代码来自：https://github.com/gman4774/Fear_and_Greed_Index 我这边进行了迭代
-
 # 恐慌贪婪指数追踪器
 
-[![Last Update](https://img.shields.io/badge/Last_Update-2026-02-20-blue)]()
-[![Records](https://img.shields.io/badge/Records-3818-green)]()
-[![Status](https://img.shields.io/badge/Status-Fear-orange)]()
+[![Last Update](https://img.shields.io/static/v1?label=Last+Update&message=2026-02-20&color=blue)]()
+[![Records](https://img.shields.io/static/v1?label=Records&message=3818&color=green)]()
+[![Status](https://img.shields.io/static/v1?label=Status&message=Fear&color=orange)]()
 
 自动追踪CNN恐慌贪婪指数，支持定时更新、可视化和历史版本管理。
 
@@ -138,7 +136,7 @@ Fear_and_Greed_Index/
 
 ## 更新记录
 
-- 最近更新: 2026-02-20 11:50:23
+- 最近更新: 2026-02-20 11:51:28
 - 数据范围: - 至 2026-02-20
 
 ## 许可证
