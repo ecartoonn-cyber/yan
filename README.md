@@ -14,8 +14,22 @@
 - **本地数据缓存**：SQLite数据库存储，支持增量更新
 - **可视化图表**：自动生成趋势图和分布统计
 - **版本历史管理**：Git自动提交 + 时间戳备份
-- CNN原始页面：https://edition.cnn.com/markets/fear-and-greed
--本项目原始代码：https://github.com/gman4774/Fear_and_Greed_Index 我这边做了迭代
+
+## 相关链接
+
+- **CNN原始页面**: https://edition.cnn.com/markets/fear-and-greed
+- **原始代码**: https://github.com/gman4774/Fear_and_Greed_Index
+
+**本项目迭代说明**：
+
+本项目基于 [gman4774/Fear_and_Greed_Index](https://github.com/gman4774/Fear_and_Greed_Index) 进行了以下迭代和增强：
+
+- 📊 **本地数据缓存**：使用SQLite数据库存储历史数据，支持快速查询和增量更新
+- 📈 **可视化图表**：自动生成趋势图和分布统计图，直观展示数据变化
+- 🔄 **自动更新**：支持定时自动获取最新数据，无需手动运行
+- 📝 **动态文档**：README.md自动更新，实时反映最新数据状态
+- 🔒 **版本管理**：Git自动提交 + 时间戳备份双重保障历史版本
+- 📦 **模块化设计**：代码结构清晰，易于维护和扩展
 
 ## 数据统计
 
@@ -138,7 +152,7 @@ Fear_and_Greed_Index/
 
 ## 更新记录
 
-- 最近更新: 2026-02-20 11:57:01
+- 最近更新: 2026-02-20 12:10:58
 - 数据范围: - 至 2026-02-20
 
 ## 许可证
