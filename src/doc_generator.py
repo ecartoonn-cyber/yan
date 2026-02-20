@@ -28,9 +28,9 @@ class DocGenerator:
         # 生成图表
         charts = self.visualizer.generate_all_charts()
         
-        # 计算相对路径
-        trend_rel = Path(charts["trend_chart"]).relative_to(PROJECT_ROOT) if charts["trend_chart"] else ""
-        dist_rel = Path(charts["distribution_chart"]).relative_to(PROJECT_ROOT) if charts["distribution_chart"] else ""
+        # 计算相对路径（使用正斜杠，兼容GitHub）
+        trend_rel = Path(charts["trend_chart"]).relative_to(PROJECT_ROOT).as_posix() if charts["trend_chart"] else ""
+        dist_rel = Path(charts["distribution_chart"]).relative_to(PROJECT_ROOT).as_posix() if charts["distribution_chart"] else ""
         
         # 生成文档内容
         content = f"""# 恐慌贪婪指数追踪器

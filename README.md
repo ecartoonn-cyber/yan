@@ -52,11 +52,11 @@
 
 ### 近30日趋势
 
-![趋势图](output\charts\trend_30d.png)
+![趋势图](output/charts/trend_30d.png)
 
 ### 历史分布
 
-![分布图](output\charts\distribution.png)
+![分布图](output/charts/distribution.png)
 
 ## 安装与使用
 
@@ -136,7 +136,7 @@ Fear_and_Greed_Index/
 
 ## 更新记录
 
-- 最近更新: 2026-02-20 11:51:28
+- 最近更新: 2026-02-20 11:57:01
 - 数据范围: - 至 2026-02-20
 
 ## 许可证
