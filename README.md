@@ -1,7 +1,7 @@
 # 恐慌贪婪指数追踪器
 
-[![Last Update](https://img.shields.io/static/v1?label=Last+Update&message=2026-02-20&color=blue)]()
-[![Records](https://img.shields.io/static/v1?label=Records&message=3818&color=green)]()
+[![Last Update](https://img.shields.io/static/v1?label=Last+Update&message=2026-02-21&color=blue)]()
+[![Records](https://img.shields.io/static/v1?label=Records&message=3819&color=green)]()
 [![Status](https://img.shields.io/static/v1?label=Status&message=Fear&color=orange)]()
 
 自动追踪CNN恐慌贪婪指数，支持定时更新、可视化和历史版本管理。
@@ -37,8 +37,8 @@
 
 | 指标 | 数值 |
 |------|------|
-| 最新日期 | 2026-02-20 |
-| **最新指数** | **38** |
+| 最新日期 | 2026-02-21 |
+| **最新指数** | **42** |
 | 情绪状态 | 恐惧 (Fear) |
 | 7日均值 | 48.51 |
 | 30日均值 | 48.51 |
@@ -56,12 +56,12 @@
 | 情绪状态 | 天数 | 占比 |
 |----------|------|------|
 | 极度恐惧 (0-25) | 582 | 15.2% |
-| 恐惧 (25-45) | 971 | 25.4% |
+| 恐惧 (25-45) | 972 | 25.5% |
 | 中性 (45-55) | 648 | 17.0% |
 | 贪婪 (55-75) | 1217 | 31.9% |
 | 极度贪婪 (75-100) | 400 | 10.5% |
 
-**数据总量**: 3818 条记录
+**数据总量**: 3819 条记录
 
 
 ## 趋势图表
@@ -152,8 +152,8 @@ Fear_and_Greed_Index/
 
 ## 更新记录
 
-- 最近更新: 2026-02-20 12:28:37
-- 数据范围: - 至 2026-02-20
+- 最近更新: 2026-02-21 22:53:13
+- 数据范围: - 至 2026-02-21
 
 ## 许可证
 
